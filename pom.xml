@@ -22,6 +22,8 @@
 
     <properties>
         <java.version>1.8</java.version>
+        <sonar.host.url>http://15.206.158.138:9000/projects</sonar.host.url>
+        <sonar.login>9bdabaac1da971c2d085ffe3c46453e7016f106a</sonar.login>
     </properties>
 
 <distributionManagement>
